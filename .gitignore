@@ -176,3 +176,7 @@ cython_debug/
 
 #New added on 30.04 by nitesh
 debug.log
+
+__pycache__
+*.log
+*.env
