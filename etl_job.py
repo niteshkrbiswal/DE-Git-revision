@@ -1,2 +1,1 @@
-print("HI Nitu")
-print("Hi Akash")
+"Hi THis is update for today"
